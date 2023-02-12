@@ -8,8 +8,8 @@ if (!firebase.apps.length) {
       projectId: "twitterpj-b5a39",
       storageBucket: "twitterpj-b5a39.appspot.com",
       messagingSenderId: "465521154917",
-      appId: "1:465521154917:web:d42d01361ad51739d41f8c",
-      measurementId: "G-5M18BY8KL7"
+      appId: "1:465521154917:web:30ec6a1440458a69d41f8c",
+      measurementId: "G-HGD4XY8PW4"
     }
   )
 }
